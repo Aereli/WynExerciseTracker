@@ -15,9 +15,10 @@ MongoDb: WyncodeProject
 
 ```
 ### minor changes where done to the link below, (destructured redundancy)
+```
 [Our First Mern Stack](https://www.notion.so/Our-First-MERN-Stack-App-847ea7c0478042788012cf65ca33dff2)
 
-```
+
 
 ## other packages installed using YARN
 
